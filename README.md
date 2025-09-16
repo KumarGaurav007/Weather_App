@@ -36,3 +36,20 @@ It fetches live data using the **OpenWeatherMap API** and displays temperature, 
 Clone the repository:
 ```bash
 git clone https://github.com/your-username/weather-app.git
+```
+
+Open the project folder:
+```bash
+cd weather-app
+```
+
+Run the app:
+Just open index.html in your browser 🌍
+
+📬 Contact
+
+👤 Gaurav Kumar
+
+LinkedIn: [Gaurav Kumar](https://www.linkedin.com/in/gaurav-kumar-25-oct?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW7%2FB5onwS4yNaZXl9gxzoA%3D%3D)
+
+GitHub: @KumarGaurav007
