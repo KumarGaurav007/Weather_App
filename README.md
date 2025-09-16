@@ -4,9 +4,8 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)  
 ![OpenWeather](https://img.shields.io/badge/API-OpenWeatherMap-blue?logo=cloud&logoColor=white)  
-![License](https://img.shields.io/badge/License-MIT-green)  
 
-![Weather Banner](https://via.placeholder.com/1000x250.png?text=Weather+App)  
+![Weather Banner](./assets/banner.png)  
 *A simple and interactive weather application that provides real-time weather updates for any city in the world.*
 
 ---
@@ -45,6 +44,8 @@ cd weather-app
 
 Run the app:
 Just open index.html in your browser 🌍
+
+---
 
 📬 Contact
 
