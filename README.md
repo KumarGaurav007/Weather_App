@@ -8,6 +8,8 @@
 ![Weather Banner](./assets/banner.png)  
 *A simple and interactive weather application that provides real-time weather updates for any city in the world.*
 
+[**Checkout Weather App Live**](https://weather-app-gaurav.vercel.app/)
+
 ---
 
 ## 📌 Overview
