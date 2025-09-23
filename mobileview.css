@@ -16,6 +16,7 @@
     .search input {
         padding: 8px 20px;
         margin-right: 10px;
+        width: 80%;
     }
 
     .search button {

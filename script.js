@@ -68,12 +68,22 @@ async function checkWeather(city) {
 
 }
 
+const extraInfo = document.querySelectorAll(".details2")
 const infoBtn = document.querySelector(".info-btn");
 infoBtn.addEventListener("click", () => {
-    document.querySelectorAll(".details2").forEach(el => {
-        el.style.display = "flex";
-    });
+    let isHidden = extraInfo[0].style.display === "none" || extraInfo[0].style.display === "";
 
+    if (isHidden) {
+        extraInfo.forEach(el => {
+            el.style.display = "flex";
+        });
+        infoBtn.innerHTML = "Click here to Hide Details";
+    } else {
+        extraInfo.forEach(el => {
+            el.style.display = "none";
+        });
+        infoBtn.innerHTML = "Click here for More Details";
+    }
 });
 
 searchBtn.addEventListener("click", () => {
